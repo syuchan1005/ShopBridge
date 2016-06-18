@@ -1,0 +1,4 @@
+name: ${pom.artifactId}
+version: ${pom.version}
+author: syu_chan_1005
+main: com.github.syuchan1005.shopbridge.ShopBridge
